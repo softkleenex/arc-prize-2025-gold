@@ -1,0 +1,13 @@
+{
+  "id": "softkleenex/arc-prize-2025-corrected-format",
+  "title": "ARC Prize 2025 Corrected Format",
+  "code_file": "arc_submission_fixed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": ["arc-prize-2025"],
+  "kernel_sources": []
+}

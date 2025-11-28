@@ -1,0 +1,24 @@
+[{"stream_name":"stdout","time":1.9963576490000001,"data":"ARC Prize 2025 - Ultimate Ensemble Solver V5\n"}
+,{"stream_name":"stdout","time":1.996440508,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":1.996446047,"data":"\n"}
+,{"stream_name":"stdout","time":1.9964492489999999,"data":"Loading test data...\n"}
+,{"stream_name":"stdout","time":2.060807447,"data":"Loaded 240 test tasks\n"}
+,{"stream_name":"stdout","time":2.062058003,"data":"\n"}
+,{"stream_name":"stdout","time":2.062094549,"data":"Generating predictions with 50+ transformations and ensemble scoring...\n"}
+,{"stream_name":"stdout","time":2.831488906,"data":"  Processed 50/240 tasks...\n"}
+,{"stream_name":"stdout","time":3.703580287,"data":"  Processed 100/240 tasks...\n"}
+,{"stream_name":"stdout","time":4.507765567,"data":"  Processed 150/240 tasks...\n"}
+,{"stream_name":"stdout","time":5.403216255,"data":"  Processed 200/240 tasks...\n"}
+,{"stream_name":"stdout","time":6.045008243,"data":"\n"}
+,{"stream_name":"stdout","time":6.045049595,"data":"✓ Generated predictions for 240 tasks\n"}
+,{"stream_name":"stdout","time":6.113426317,"data":"✓ Saved submission to: /kaggle/working/submission.json\n"}
+,{"stream_name":"stdout","time":6.113466488,"data":"  File size: 384,362 bytes\n"}
+,{"stream_name":"stdout","time":6.113472964,"data":"\n"}
+,{"stream_name":"stdout","time":6.113477399,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":6.113482855,"data":"V5 Ultimate submission complete!\n"}
+,{"stream_name":"stdout","time":6.113488102,"data":"======================================================================\n"}
+,{"stream_name":"stderr","time":12.913735146,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":12.913801214,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":12.990437652,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":15.111426868,"data":"[NbConvertApp] Writing 387718 bytes to __results__.html\n"}
+]

@@ -1,0 +1,25 @@
+[{"stream_name":"stdout","time":1.689451005,"data":"ARC Prize 2025 - Hybrid Ultimate Solver V8\n"}
+,{"stream_name":"stdout","time":1.689515669,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":1.689521408,"data":"\n"}
+,{"stream_name":"stdout","time":1.689525294,"data":"Loading test data...\n"}
+,{"stream_name":"stdout","time":1.750238227,"data":"Loaded 240 test tasks\n"}
+,{"stream_name":"stdout","time":1.750281476,"data":"\n"}
+,{"stream_name":"stdout","time":1.750289274,"data":"Generating predictions with Hybrid approach...\n"}
+,{"stream_name":"stdout","time":1.75029451,"data":"(DSL + Advanced Transforms + Learning)\n"}
+,{"stream_name":"stdout","time":1.8461855539999998,"data":"  Processed 50/240 tasks...\n"}
+,{"stream_name":"stdout","time":1.9370222240000001,"data":"  Processed 100/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.014279248,"data":"  Processed 150/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.099073013,"data":"  Processed 200/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.170119293,"data":"\n"}
+,{"stream_name":"stdout","time":2.170149871,"data":"✓ Generated predictions for 240 tasks\n"}
+,{"stream_name":"stdout","time":2.238786143,"data":"✓ Saved submission to: /kaggle/working/submission.json\n"}
+,{"stream_name":"stdout","time":2.238815942,"data":"  File size: 387,112 bytes\n"}
+,{"stream_name":"stdout","time":2.238821621,"data":"\n"}
+,{"stream_name":"stdout","time":2.238826068,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2.238831289,"data":"V8 Hybrid Ultimate submission complete!\n"}
+,{"stream_name":"stdout","time":2.238835862,"data":"======================================================================\n"}
+,{"stream_name":"stderr","time":8.380374496,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":8.380417609,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":8.442615325,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":10.111920474,"data":"[NbConvertApp] Writing 330937 bytes to __results__.html\n"}
+]

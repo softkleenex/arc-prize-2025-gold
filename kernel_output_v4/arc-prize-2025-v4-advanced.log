@@ -1,0 +1,24 @@
+[{"stream_name":"stdout","time":1.901337234,"data":"ARC Prize 2025 - Advanced Multi-Step Solver V4\n"}
+,{"stream_name":"stdout","time":1.9014022609999999,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":1.901407155,"data":"\n"}
+,{"stream_name":"stdout","time":1.901410061,"data":"Loading test data...\n"}
+,{"stream_name":"stdout","time":1.955282599,"data":"Loaded 240 test tasks\n"}
+,{"stream_name":"stdout","time":1.956392189,"data":"\n"}
+,{"stream_name":"stdout","time":1.956421116,"data":"Generating predictions with 40+ advanced transformations...\n"}
+,{"stream_name":"stdout","time":2.442538148,"data":"  Processed 50/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.949495312,"data":"  Processed 100/240 tasks...\n"}
+,{"stream_name":"stdout","time":3.402419353,"data":"  Processed 150/240 tasks...\n"}
+,{"stream_name":"stdout","time":3.950541704,"data":"  Processed 200/240 tasks...\n"}
+,{"stream_name":"stdout","time":4.342658724,"data":"\n"}
+,{"stream_name":"stdout","time":4.342694629,"data":"✓ Generated predictions for 240 tasks\n"}
+,{"stream_name":"stdout","time":4.411736636,"data":"✓ Saved submission to: /kaggle/working/submission.json\n"}
+,{"stream_name":"stdout","time":4.411767658,"data":"  File size: 389,977 bytes\n"}
+,{"stream_name":"stdout","time":4.411771859,"data":"\n"}
+,{"stream_name":"stdout","time":4.411774979,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":4.411778422,"data":"V4 Advanced submission complete!\n"}
+,{"stream_name":"stdout","time":4.411781182,"data":"======================================================================\n"}
+,{"stream_name":"stderr","time":10.665911011,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":10.665970162,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":10.721982529,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":12.53032597,"data":"[NbConvertApp] Writing 361868 bytes to __results__.html\n"}
+]

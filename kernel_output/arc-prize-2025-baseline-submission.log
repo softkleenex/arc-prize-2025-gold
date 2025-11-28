@@ -1,0 +1,24 @@
+[{"stream_name":"stdout","time":1.1360985000000001,"data":"ARC Prize 2025 - Generating Predictions\n"}
+,{"stream_name":"stdout","time":1.136149503,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":1.136153561,"data":"\n"}
+,{"stream_name":"stdout","time":1.136156064,"data":"Loading test data...\n"}
+,{"stream_name":"stdout","time":1.186485747,"data":"Loaded 240 test tasks\n"}
+,{"stream_name":"stdout","time":1.186519558,"data":"\n"}
+,{"stream_name":"stdout","time":1.186525213,"data":"Generating predictions...\n"}
+,{"stream_name":"stdout","time":1.269556487,"data":"  Processed 50/240 tasks...\n"}
+,{"stream_name":"stdout","time":1.347096367,"data":"  Processed 100/240 tasks...\n"}
+,{"stream_name":"stdout","time":1.418845051,"data":"  Processed 150/240 tasks...\n"}
+,{"stream_name":"stdout","time":1.503697384,"data":"  Processed 200/240 tasks...\n"}
+,{"stream_name":"stdout","time":1.566045698,"data":"\n"}
+,{"stream_name":"stdout","time":1.5660681749999998,"data":"✓ Generated predictions for 240 tasks\n"}
+,{"stream_name":"stdout","time":1.625186933,"data":"✓ Saved submission to: /kaggle/working/submission.json\n"}
+,{"stream_name":"stdout","time":1.625208005,"data":"  File size: 391,702 bytes (0.37 MB)\n"}
+,{"stream_name":"stdout","time":1.625212859,"data":"\n"}
+,{"stream_name":"stdout","time":1.6252164599999999,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":1.625221579,"data":"Submission generation complete!\n"}
+,{"stream_name":"stdout","time":1.625225967,"data":"======================================================================\n"}
+,{"stream_name":"stderr","time":5.826502194,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":5.826550179,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":5.863799164,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6.999034673,"data":"[NbConvertApp] Writing 304150 bytes to __results__.html\n"}
+]

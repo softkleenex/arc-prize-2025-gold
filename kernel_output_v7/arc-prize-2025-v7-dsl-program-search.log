@@ -1,0 +1,25 @@
+[{"stream_name":"stdout","time":1.441189082,"data":"ARC Prize 2025 - DSL-Based Program Search V7\n"}
+,{"stream_name":"stdout","time":1.441288157,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":1.441300223,"data":"\n"}
+,{"stream_name":"stdout","time":1.44132215,"data":"Loading test data...\n"}
+,{"stream_name":"stdout","time":1.509104327,"data":"Loaded 240 test tasks\n"}
+,{"stream_name":"stdout","time":1.509144864,"data":"\n"}
+,{"stream_name":"stdout","time":1.5091506479999999,"data":"Generating predictions with DSL program synthesis...\n"}
+,{"stream_name":"stdout","time":1.50915593,"data":"(Searching for shortest programs that solve training examples)\n"}
+,{"stream_name":"stdout","time":2.279053228,"data":"  Processed 50/240 tasks...\n"}
+,{"stream_name":"stdout","time":3.077384453,"data":"  Processed 100/240 tasks...\n"}
+,{"stream_name":"stdout","time":3.7759223,"data":"  Processed 150/240 tasks...\n"}
+,{"stream_name":"stdout","time":4.534849403,"data":"  Processed 200/240 tasks...\n"}
+,{"stream_name":"stdout","time":5.154210734,"data":"\n"}
+,{"stream_name":"stdout","time":5.154271456,"data":"✓ Generated predictions for 240 tasks\n"}
+,{"stream_name":"stdout","time":5.246044277,"data":"✓ Saved submission to: /kaggle/working/submission.json\n"}
+,{"stream_name":"stdout","time":5.246081455,"data":"  File size: 521,660 bytes\n"}
+,{"stream_name":"stdout","time":5.246088237,"data":"\n"}
+,{"stream_name":"stdout","time":5.246092633,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":5.246097084,"data":"V7 DSL-based submission complete!\n"}
+,{"stream_name":"stdout","time":5.246101524,"data":"======================================================================\n"}
+,{"stream_name":"stderr","time":10.827398715,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":10.827452012,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":10.882732475,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":12.438097652,"data":"[NbConvertApp] Writing 322142 bytes to __results__.html\n"}
+]

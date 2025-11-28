@@ -1,0 +1,24 @@
+[{"stream_name":"stdout","time":1.457487028,"data":"ARC Prize 2025 - Aggressive Solver V3\n"}
+,{"stream_name":"stdout","time":1.457577313,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":1.4575879440000001,"data":"\n"}
+,{"stream_name":"stdout","time":1.457592072,"data":"Loading test data...\n"}
+,{"stream_name":"stdout","time":1.509319541,"data":"Loaded 240 test tasks\n"}
+,{"stream_name":"stdout","time":1.509358414,"data":"\n"}
+,{"stream_name":"stdout","time":1.509362824,"data":"Generating predictions with 30+ aggressive transformations...\n"}
+,{"stream_name":"stdout","time":1.7884519810000001,"data":"  Processed 50/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.068948598,"data":"  Processed 100/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.307596443,"data":"  Processed 150/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.606788462,"data":"  Processed 200/240 tasks...\n"}
+,{"stream_name":"stdout","time":2.818748722,"data":"\n"}
+,{"stream_name":"stdout","time":2.818785062,"data":"✓ Generated predictions for 240 tasks\n"}
+,{"stream_name":"stdout","time":2.8858894680000002,"data":"✓ Saved submission to: /kaggle/working/submission.json\n"}
+,{"stream_name":"stdout","time":2.885924203,"data":"  File size: 390,553 bytes\n"}
+,{"stream_name":"stdout","time":2.885930089,"data":"\n"}
+,{"stream_name":"stdout","time":2.88593446,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2.885938639,"data":"V3 Aggressive submission complete!\n"}
+,{"stream_name":"stdout","time":2.885942425,"data":"======================================================================\n"}
+,{"stream_name":"stderr","time":7.99711356,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":7.997169857,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":8.045299199,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":9.456126072,"data":"[NbConvertApp] Writing 327568 bytes to __results__.html\n"}
+]

@@ -1,0 +1,14 @@
+{
+  "id": "softkleenex/arc-prize-2025-v10-enhanced-hybrid",
+  "title": "ARC Prize 2025 V10 Enhanced Hybrid",
+  "code_file": "kaggle_notebook_v10.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["arc-prize-2025"],
+  "competition_sources": ["arc-prize-2025"],
+  "kernel_sources": []
+}

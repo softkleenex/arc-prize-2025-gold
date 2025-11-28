@@ -1,0 +1,345 @@
+[{"stream_name":"stderr","time":7.389002272,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.389094454,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.38910406,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.389108294,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.016244033,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.016291464,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.016296021,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.01629994,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":1918.892409091,"data":"8b7bacbf started on gpu 0 New quota is 5260931584\n"}
+,{"stream_name":"stdout","time":1919.093267082,"data":"21897d95 started on gpu 0 New quota is 178619392\n"}
+,{"stream_name":"stdout","time":1942.974294373,"data":"8b7bacbf finished on gpu 0 New quota is 5266215424\n"}
+,{"stream_name":"stdout","time":1942.979855078,"data":"88bcf3b4 started on gpu 0 New quota is 439363584\n"}
+,{"stream_name":"stdout","time":1943.174303074,"data":"dd6b8c4b started on gpu 0 New quota is 57202176\n"}
+,{"stream_name":"stdout","time":1968.080808183,"data":"dd6b8c4b finished on gpu 0 New quota is 439363584\n"}
+,{"stream_name":"stdout","time":1968.275110927,"data":"20270e3b started on gpu 0 New quota is 85747200\n"}
+,{"stream_name":"stdout","time":1977.112300632,"data":"88bcf3b4 finished on gpu 0 New quota is 4912599040\n"}
+,{"stream_name":"stdout","time":1977.117568904,"data":"e12f9a14 started on gpu 0 New quota is 326642176\n"}
+,{"stream_name":"stdout","time":1977.315684551,"data":"28a6681f started on gpu 0 New quota is 23987200\n"}
+,{"stream_name":"stdout","time":1979.133831422,"data":"21897d95 finished on gpu 0 New quota is 5106299392\n"}
+,{"stream_name":"stdout","time":1979.333704729,"data":"d8e07eb2 started on gpu 0 New quota is 656537088\n"}
+,{"stream_name":"stdout","time":1999.282939896,"data":"20270e3b finished on gpu 0 New quota is 1010153472\n"}
+,{"stream_name":"stdout","time":1999.466476258,"data":"d59b0160 started on gpu 0 New quota is 17993728\n"}
+,{"stream_name":"stdout","time":2004.510759126,"data":"28a6681f finished on gpu 0 New quota is 320648704\n"}
+,{"stream_name":"stdout","time":2008.325120951,"data":"d8e07eb2 finished on gpu 0 New quota is 4770411008\n"}
+,{"stream_name":"stdout","time":2008.330167093,"data":"b0039139 started on gpu 0 New quota is 499742208\n"}
+,{"stream_name":"stdout","time":2008.525255088,"data":"7666fa5d started on gpu 0 New quota is 37321216\n"}
+,{"stream_name":"stdout","time":2015.373666691,"data":"e12f9a14 finished on gpu 0 New quota is 4623278080\n"}
+,{"stream_name":"stdout","time":2015.57373656,"data":"13e47133 started on gpu 0 New quota is 380132352\n"}
+,{"stream_name":"stdout","time":2026.452770637,"data":"d59b0160 finished on gpu 0 New quota is 1372292096\n"}
+,{"stream_name":"stdout","time":2026.652844086,"data":"35ab12c3 started on gpu 0 New quota is 6933504\n"}
+,{"stream_name":"stdout","time":2034.713920056,"data":"7666fa5d finished on gpu 0 New quota is 469354496\n"}
+,{"stream_name":"stdout","time":2049.567712805,"data":"13e47133 finished on gpu 0 New quota is 4712500224\n"}
+,{"stream_name":"stdout","time":2049.567749227,"data":"35ab12c3 finished on gpu 0 New quota is 6077858816\n"}
+,{"stream_name":"stdout","time":2049.570559142,"data":"3e6067c3 started on gpu 0 New quota is 1834713088\n"}
+,{"stream_name":"stdout","time":2049.768001597,"data":"16b78196 started on gpu 0 New quota is 42014208\n"}
+,{"stream_name":"stdout","time":2070.667378164,"data":"3e6067c3 finished on gpu 0 New quota is 4285159936\n"}
+,{"stream_name":"stdout","time":2070.860144103,"data":"a32d8b75 started on gpu 0 New quota is 42014208\n"}
+,{"stream_name":"stdout","time":2077.693917461,"data":"16b78196 finished on gpu 0 New quota is 1834713088\n"}
+,{"stream_name":"stdout","time":2077.894502758,"data":"de809cff started on gpu 0 New quota is 42014208\n"}
+,{"stream_name":"stdout","time":2079.703667816,"data":"b0039139 finished on gpu 0 New quota is 4312683008\n"}
+,{"stream_name":"stdout","time":2079.90395252,"data":"981571dc started on gpu 0 New quota is 69573120\n"}
+,{"stream_name":"stdout","time":2101.814150156,"data":"981571dc finished on gpu 0 New quota is 4312683008\n"}
+,{"stream_name":"stdout","time":2102.005359116,"data":"20a9e565 started on gpu 0 New quota is 73989632\n"}
+,{"stream_name":"stdout","time":2102.814217853,"data":"a32d8b75 finished on gpu 0 New quota is 4317135360\n"}
+,{"stream_name":"stdout","time":2103.014287273,"data":"0934a4d8 started on gpu 0 New quota is 78477824\n"}
+,{"stream_name":"stdout","time":2105.831544677,"data":"de809cff finished on gpu 0 New quota is 1871176704\n"}
+,{"stream_name":"stdout","time":2106.03171598,"data":"80a900e0 started on gpu 0 New quota is 23377920\n"}
+,{"stream_name":"stdout","time":2129.923243035,"data":"80a900e0 finished on gpu 0 New quota is 1871176704\n"}
+,{"stream_name":"stdout","time":2130.12379312,"data":"142ca369 started on gpu 0 New quota is 124612608\n"}
+,{"stream_name":"stdout","time":2146.996918189,"data":"142ca369 finished on gpu 0 New quota is 1871176704\n"}
+,{"stream_name":"stdout","time":2147.191926841,"data":"dfadab01 started on gpu 0 New quota is 124626944\n"}
+,{"stream_name":"stdout","time":2155.02990193,"data":"0934a4d8 finished on gpu 0 New quota is 4363284480\n"}
+,{"stream_name":"stdout","time":2155.229634539,"data":"195c6913 started on gpu 0 New quota is 499973632\n"}
+,{"stream_name":"stdout","time":2164.063406405,"data":"20a9e565 finished on gpu 0 New quota is 4738667008\n"}
+,{"stream_name":"stdout","time":2164.06810838,"data":"a25697e4 started on gpu 0 New quota is 875356160\n"}
+,{"stream_name":"stdout","time":2164.266599097,"data":"4a21e3da started on gpu 0 New quota is 16304640\n"}
+,{"stream_name":"stdout","time":2171.117508678,"data":"dfadab01 finished on gpu 0 New quota is 1762854400\n"}
+,{"stream_name":"stdout","time":2171.314970203,"data":"aa4ec2a5 started on gpu 0 New quota is 24673792\n"}
+,{"stream_name":"stdout","time":2184.223389924,"data":"195c6913 finished on gpu 0 New quota is 3887984640\n"}
+,{"stream_name":"stdout","time":2184.408628334,"data":"291dc1e1 started on gpu 0 New quota is 157328384\n"}
+,{"stream_name":"stdout","time":2194.28179243,"data":"4a21e3da finished on gpu 0 New quota is 1016379904\n"}
+,{"stream_name":"stdout","time":2194.482576224,"data":"e376de54 started on gpu 0 New quota is 118369792\n"}
+,{"stream_name":"stdout","time":2195.290799503,"data":"a25697e4 finished on gpu 0 New quota is 3981680640\n"}
+,{"stream_name":"stdout","time":2195.491295939,"data":"65b59efc started on gpu 0 New quota is 437053952\n"}
+,{"stream_name":"stdout","time":2201.341968332,"data":"aa4ec2a5 finished on gpu 0 New quota is 2175234560\n"}
+,{"stream_name":"stdout","time":2201.542531206,"data":"8f215267 started on gpu 0 New quota is 25064448\n"}
+,{"stream_name":"stdout","time":2221.499580053,"data":"e376de54 finished on gpu 0 New quota is 923074560\n"}
+,{"stream_name":"stdout","time":2221.682806469,"data":"7491f3cf started on gpu 0 New quota is 68085760\n"}
+,{"stream_name":"stdout","time":2230.541290105,"data":"8f215267 finished on gpu 0 New quota is 2218255872\n"}
+,{"stream_name":"stdout","time":2230.747305365,"data":"7c66cb00 started on gpu 0 New quota is 15666176\n"}
+,{"stream_name":"stdout","time":2247.668695467,"data":"7491f3cf finished on gpu 0 New quota is 870654976\n"}
+,{"stream_name":"stdout","time":2247.86634168,"data":"8f3a5a89 started on gpu 0 New quota is 82350080\n"}
+,{"stream_name":"stdout","time":2256.753231555,"data":"291dc1e1 finished on gpu 0 New quota is 3813006336\n"}
+,{"stream_name":"stdout","time":2256.927845959,"data":"62593bfd started on gpu 0 New quota is 384613376\n"}
+,{"stream_name":"stdout","time":2259.751305692,"data":"7c66cb00 finished on gpu 0 New quota is 2587203072\n"}
+,{"stream_name":"stdout","time":2259.950788302,"data":"67e490f4 started on gpu 0 New quota is 11430400\n"}
+,{"stream_name":"stdout","time":2262.778450504,"data":"65b59efc finished on gpu 0 New quota is 3556057088\n"}
+,{"stream_name":"stdout","time":2262.978574771,"data":"7b0280bc started on gpu 0 New quota is 127699968\n"}
+,{"stream_name":"stdout","time":2277.88787327,"data":"8f3a5a89 finished on gpu 0 New quota is 916004864\n"}
+,{"stream_name":"stdout","time":2278.089619048,"data":"332f06d7 started on gpu 0 New quota is 131018752\n"}
+,{"stream_name":"stdout","time":2286.974223748,"data":"62593bfd finished on gpu 0 New quota is 3559411712\n"}
+,{"stream_name":"stdout","time":2287.148827961,"data":"800d221b started on gpu 0 New quota is 131054592\n"}
+,{"stream_name":"stdout","time":2297.0262921,"data":"7b0280bc finished on gpu 0 New quota is 3559411712\n"}
+,{"stream_name":"stdout","time":2297.222452154,"data":"9aaea919 started on gpu 0 New quota is 131054592\n"}
+,{"stream_name":"stdout","time":2303.069460488,"data":"67e490f4 finished on gpu 0 New quota is 2706827264\n"}
+,{"stream_name":"stdout","time":2303.268648178,"data":"36a08778 started on gpu 0 New quota is 20643328\n"}
+,{"stream_name":"stdout","time":2310.120870519,"data":"332f06d7 finished on gpu 0 New quota is 805629440\n"}
+,{"stream_name":"stdout","time":2310.318631236,"data":"dbff022c started on gpu 0 New quota is 30547968\n"}
+,{"stream_name":"stdout","time":2325.245030008,"data":"800d221b finished on gpu 0 New quota is 3458905088\n"}
+,{"stream_name":"stdout","time":2325.419383252,"data":"3a25b0d8 started on gpu 0 New quota is 34075648\n"}
+,{"stream_name":"stdout","time":2326.231828774,"data":"9aaea919 finished on gpu 0 New quota is 3462432768\n"}
+,{"stream_name":"stdout","time":2326.432879626,"data":"f560132c started on gpu 0 New quota is 37603328\n"}
+,{"stream_name":"stdout","time":2337.324916458,"data":"dbff022c finished on gpu 0 New quota is 812684800\n"}
+,{"stream_name":"stdout","time":2337.52194364,"data":"136b0064 started on gpu 0 New quota is 40190976\n"}
+,{"stream_name":"stdout","time":2356.478489145,"data":"36a08778 finished on gpu 0 New quota is 2726374912\n"}
+,{"stream_name":"stdout","time":2356.655263403,"data":"cbebaa4b started on gpu 0 New quota is 131665920\n"}
+,{"stream_name":"stdout","time":2375.589258602,"data":"136b0064 finished on gpu 0 New quota is 904159744\n"}
+,{"stream_name":"stdout","time":2375.787044865,"data":"7b5033c1 started on gpu 0 New quota is 131837440\n"}
+,{"stream_name":"stdout","time":2385.656195733,"data":"cbebaa4b finished on gpu 0 New quota is 2726546432\n"}
+,{"stream_name":"stdout","time":2385.856213769,"data":"8698868d started on gpu 0 New quota is 150773760\n"}
+,{"stream_name":"stdout","time":2388.712719496,"data":"3a25b0d8 finished on gpu 0 New quota is 3575603200\n"}
+,{"stream_name":"stdout","time":2388.883898488,"data":"a6f40cea started on gpu 0 New quota is 150809600\n"}
+,{"stream_name":"stdout","time":2390.70125406,"data":"f560132c finished on gpu 0 New quota is 3575639040\n"}
+,{"stream_name":"stdout","time":2390.901378205,"data":"fc7cae8d started on gpu 0 New quota is 332321792\n"}
+,{"stream_name":"stdout","time":2406.821759397,"data":"7b5033c1 finished on gpu 0 New quota is 1104644096\n"}
+,{"stream_name":"stdout","time":2407.022519425,"data":"31f7f899 started on gpu 0 New quota is 69723648\n"}
+,{"stream_name":"stdout","time":2438.052461103,"data":"31f7f899 finished on gpu 0 New quota is 1104644096\n"}
+,{"stream_name":"stdout","time":2438.226691544,"data":"1818057f started on gpu 0 New quota is 350325248\n"}
+,{"stream_name":"stdout","time":2439.038925796,"data":"8698868d finished on gpu 0 New quota is 2926097920\n"}
+,{"stream_name":"stdout","time":2439.239242246,"data":"6e4f6532 started on gpu 0 New quota is 48235008\n"}
+,{"stream_name":"stdout","time":2454.150417478,"data":"fc7cae8d finished on gpu 0 New quota is 3291552256\n"}
+,{"stream_name":"stdout","time":2454.349700624,"data":"2d0172a1 started on gpu 0 New quota is 62544896\n"}
+,{"stream_name":"stdout","time":2455.162958021,"data":"a6f40cea finished on gpu 0 New quota is 3487338496\n"}
+,{"stream_name":"stdout","time":2455.361854205,"data":"e3721c99 started on gpu 0 New quota is 417828352\n"}
+,{"stream_name":"stdout","time":2468.27745926,"data":"6e4f6532 finished on gpu 0 New quota is 3295691264\n"}
+,{"stream_name":"stdout","time":2468.448965155,"data":"89565ca0 started on gpu 0 New quota is 304734720\n"}
+,{"stream_name":"stdout","time":2470.272928896,"data":"1818057f finished on gpu 0 New quota is 1059053568\n"}
+,{"stream_name":"stdout","time":2470.473533697,"data":"bf45cf4b started on gpu 0 New quota is 310571520\n"}
+,{"stream_name":"stdout","time":2483.364191306,"data":"e3721c99 finished on gpu 0 New quota is 3380081664\n"}
+,{"stream_name":"stdout","time":2483.564277232,"data":"4e34c42c started on gpu 0 New quota is 515500032\n"}
+,{"stream_name":"stdout","time":2506.547464666,"data":"bf45cf4b finished on gpu 0 New quota is 1263982080\n"}
+,{"stream_name":"stdout","time":2506.714851898,"data":"6ffbe589 started on gpu 0 New quota is 18956800\n"}
+,{"stream_name":"stdout","time":2518.597112641,"data":"2d0172a1 finished on gpu 0 New quota is 3247964160\n"}
+,{"stream_name":"stdout","time":2518.796862476,"data":"e87109e9 started on gpu 0 New quota is 496254976\n"}
+,{"stream_name":"stdout","time":2536.751842234,"data":"89565ca0 finished on gpu 0 New quota is 3487211520\n"}
+,{"stream_name":"stdout","time":2536.924630247,"data":"4c7dc4dd started on gpu 0 New quota is 757603328\n"}
+,{"stream_name":"stdout","time":2540.771525626,"data":"4e34c42c finished on gpu 0 New quota is 3622184960\n"}
+,{"stream_name":"stdout","time":2540.966939035,"data":"898e7135 started on gpu 0 New quota is 1046412288\n"}
+,{"stream_name":"stdout","time":2542.78598849,"data":"6ffbe589 finished on gpu 0 New quota is 2291437568\n"}
+,{"stream_name":"stdout","time":2542.985423909,"data":"b99e7126 started on gpu 0 New quota is 49975296\n"}
+,{"stream_name":"stdout","time":2557.895173351,"data":"e87109e9 finished on gpu 0 New quota is 2801684480\n"}
+,{"stream_name":"stdout","time":2558.092627519,"data":"a251c730 started on gpu 0 New quota is 225911808\n"}
+,{"stream_name":"stdout","time":2573.029145453,"data":"b99e7126 finished on gpu 0 New quota is 2467374080\n"}
+,{"stream_name":"stdout","time":2573.198768329,"data":"64efde09 started on gpu 0 New quota is 47741952\n"}
+,{"stream_name":"stdout","time":2591.11722582,"data":"4c7dc4dd finished on gpu 0 New quota is 2777350144\n"}
+,{"stream_name":"stdout","time":2591.320848096,"data":"edb79dae started on gpu 0 New quota is 201577472\n"}
+,{"stream_name":"stdout","time":2592.130374798,"data":"898e7135 finished on gpu 0 New quota is 2777350144\n"}
+,{"stream_name":"stdout","time":2592.330831596,"data":"2ba387bc started on gpu 0 New quota is 294455808\n"}
+,{"stream_name":"stdout","time":2599.187995456,"data":"a251c730 finished on gpu 0 New quota is 2870228480\n"}
+,{"stream_name":"stdout","time":2599.387191415,"data":"5dbc8537 started on gpu 0 New quota is 454032896\n"}
+,{"stream_name":"stdout","time":2602.214146652,"data":"64efde09 finished on gpu 0 New quota is 2873665024\n"}
+,{"stream_name":"stdout","time":2602.41085983,"data":"7ed72f31 started on gpu 0 New quota is 463889920\n"}
+,{"stream_name":"stdout","time":2635.483216414,"data":"7ed72f31 finished on gpu 0 New quota is 2873665024\n"}
+,{"stream_name":"stdout","time":2635.631661998,"data":"221dfab4 started on gpu 0 New quota is 483950592\n"}
+,{"stream_name":"stdout","time":2643.492993456,"data":"edb79dae finished on gpu 0 New quota is 3059723264\n"}
+,{"stream_name":"stdout","time":2643.691722979,"data":"446ef5d2 started on gpu 0 New quota is 741198336\n"}
+,{"stream_name":"stdout","time":2646.519188952,"data":"2ba387bc finished on gpu 0 New quota is 3224092672\n"}
+,{"stream_name":"stdout","time":2646.720471899,"data":"a47bf94d started on gpu 0 New quota is 905592320\n"}
+,{"stream_name":"stdout","time":2650.552881442,"data":"5dbc8537 finished on gpu 0 New quota is 3321787904\n"}
+,{"stream_name":"stdout","time":2650.754281418,"data":"cb2d8a2c started on gpu 0 New quota is 1182171648\n"}
+,{"stream_name":"stdout","time":2665.705485458,"data":"221dfab4 finished on gpu 0 New quota is 3571886080\n"}
+,{"stream_name":"stdout","time":2665.867846308,"data":"9385bd28 started on gpu 0 New quota is 1447913984\n"}
+,{"stream_name":"stdout","time":2676.744298314,"data":"446ef5d2 finished on gpu 0 New quota is 3766438912\n"}
+,{"stream_name":"stdout","time":2676.744366788,"data":"a47bf94d finished on gpu 0 New quota is 6084939264\n"}
+,{"stream_name":"stdout","time":2676.747026541,"data":"db695cfb started on gpu 0 New quota is 3966825984\n"}
+,{"stream_name":"stdout","time":2676.943293757,"data":"5961cc34 started on gpu 0 New quota is 1875352064\n"}
+,{"stream_name":"stdout","time":2685.814144755,"data":"cb2d8a2c finished on gpu 0 New quota is 4014968320\n"}
+,{"stream_name":"stdout","time":2686.014623431,"data":"abc82100 started on gpu 0 New quota is 1934252032\n"}
+,{"stream_name":"stdout","time":2696.927813507,"data":"9385bd28 finished on gpu 0 New quota is 4058224128\n"}
+,{"stream_name":"stdout","time":2697.090366581,"data":"4c416de3 started on gpu 0 New quota is 2020502016\n"}
+,{"stream_name":"stdout","time":2708.978914692,"data":"5961cc34 finished on gpu 0 New quota is 4111975936\n"}
+,{"stream_name":"stdout","time":2709.179378661,"data":"2c181942 started on gpu 0 New quota is 2175455744\n"}
+,{"stream_name":"stdout","time":2715.025129279,"data":"db695cfb finished on gpu 0 New quota is 4293569024\n"}
+,{"stream_name":"stdout","time":2715.227609855,"data":"38007db0 started on gpu 0 New quota is 2357953536\n"}
+,{"stream_name":"stdout","time":2720.064829175,"data":"abc82100 finished on gpu 0 New quota is 4438669824\n"}
+,{"stream_name":"stdout","time":2720.264217456,"data":"9bbf930d started on gpu 0 New quota is 2542543360\n"}
+,{"stream_name":"stdout","time":2725.108942565,"data":"4c416de3 finished on gpu 0 New quota is 4580265472\n"}
+,{"stream_name":"stdout","time":2725.307756582,"data":"b5ca7ac4 started on gpu 0 New quota is 2689368576\n"}
+,{"stream_name":"stdout","time":2738.242327973,"data":"2c181942 finished on gpu 0 New quota is 4625888768\n"}
+,{"stream_name":"stdout","time":2738.407609725,"data":"78332cb0 started on gpu 0 New quota is 2914429440\n"}
+,{"stream_name":"stdout","time":2751.305309412,"data":"9bbf930d finished on gpu 0 New quota is 4810555904\n"}
+,{"stream_name":"stdout","time":2751.505723463,"data":"58f5dbd5 started on gpu 0 New quota is 3110061568\n"}
+,{"stream_name":"stdout","time":2753.322134418,"data":"b5ca7ac4 finished on gpu 0 New quota is 5000958464\n"}
+,{"stream_name":"stdout","time":2753.521720682,"data":"135a2760 started on gpu 0 New quota is 3314863616\n"}
+,{"stream_name":"stdout","time":2759.371398123,"data":"38007db0 finished on gpu 0 New quota is 5250479104\n"}
+,{"stream_name":"stdout","time":2759.566159201,"data":"c4d067a0 started on gpu 0 New quota is 3582884864\n"}
+,{"stream_name":"stdout","time":2785.573897483,"data":"78332cb0 finished on gpu 0 New quota is 5294344192\n"}
+,{"stream_name":"stdout","time":2785.738047121,"data":"269e22fb started on gpu 0 New quota is 3666273280\n"}
+,{"stream_name":"stdout","time":2787.555944422,"data":"135a2760 finished on gpu 0 New quota is 5352368128\n"}
+,{"stream_name":"stdout","time":2787.754834781,"data":"581f7754 started on gpu 0 New quota is 3724845056\n"}
+,{"stream_name":"stdout","time":2789.571736795,"data":"c4d067a0 finished on gpu 0 New quota is 5392439296\n"}
+,{"stream_name":"stdout","time":2789.770094684,"data":"c7f57c3e started on gpu 0 New quota is 3825830912\n"}
+,{"stream_name":"stdout","time":2794.608222821,"data":"58f5dbd5 finished on gpu 0 New quota is 5526325248\n"}
+,{"stream_name":"stdout","time":2794.807630066,"data":"88e364bc started on gpu 0 New quota is 3979835392\n"}
+,{"stream_name":"stdout","time":2818.80001972,"data":"581f7754 finished on gpu 0 New quota is 5607358464\n"}
+,{"stream_name":"stdout","time":2818.96422846,"data":"45a5af55 started on gpu 0 New quota is 4064337920\n"}
+,{"stream_name":"stdout","time":2820.786070746,"data":"c7f57c3e finished on gpu 0 New quota is 5630946304\n"}
+,{"stream_name":"stdout","time":2820.985946869,"data":"58490d8a started on gpu 0 New quota is 4092709888\n"}
+,{"stream_name":"stdout","time":2823.814194782,"data":"88e364bc finished on gpu 0 New quota is 5639199744\n"}
+,{"stream_name":"stdout","time":2824.015005995,"data":"f931b4a8 started on gpu 0 New quota is 4103177728\n"}
+,{"stream_name":"stdout","time":2827.848009308,"data":"269e22fb finished on gpu 0 New quota is 5731248640\n"}
+,{"stream_name":"stdout","time":2828.046202638,"data":"7b80bb43 started on gpu 0 New quota is 4229416960\n"}
+,{"stream_name":"stdout","time":2858.083478998,"data":"7b80bb43 finished on gpu 0 New quota is 5731248640\n"}
+,{"stream_name":"stdout","time":2858.242034594,"data":"a395ee82 started on gpu 0 New quota is 4234718208\n"}
+,{"stream_name":"stdout","time":2865.099877621,"data":"45a5af55 finished on gpu 0 New quota is 5777738752\n"}
+,{"stream_name":"stdout","time":2865.299891451,"data":"1ae2feb7 started on gpu 0 New quota is 4289180672\n"}
+,{"stream_name":"stdout","time":2872.146897392,"data":"f931b4a8 finished on gpu 0 New quota is 5825202688\n"}
+,{"stream_name":"stdout","time":2872.345206311,"data":"b10624e5 started on gpu 0 New quota is 4350212608\n"}
+,{"stream_name":"stdout","time":2874.162984999,"data":"58490d8a finished on gpu 0 New quota is 5888449024\n"}
+,{"stream_name":"stdout","time":2874.364084361,"data":"247ef758 started on gpu 0 New quota is 4454785024\n"}
+,{"stream_name":"stdout","time":2885.237809377,"data":"a395ee82 finished on gpu 0 New quota is 5951315456\n"}
+,{"stream_name":"stdout","time":2885.43694413,"data":"8b9c3697 started on gpu 0 New quota is 4520488960\n"}
+,{"stream_name":"stdout","time":2893.346293896,"data":"1ae2feb7 finished on gpu 0 New quota is 6009047040\n"}
+,{"stream_name":"stdout","time":2893.497931414,"data":"db0c5428 started on gpu 0 New quota is 4584879616\n"}
+,{"stream_name":"stdout","time":2901.360158504,"data":"b10624e5 finished on gpu 0 New quota is 6059869696\n"}
+,{"stream_name":"stdout","time":2901.558959407,"data":"7b3084d4 started on gpu 0 New quota is 4660905472\n"}
+,{"stream_name":"stdout","time":2903.378021623,"data":"247ef758 finished on gpu 0 New quota is 6094569472\n"}
+,{"stream_name":"stdout","time":2903.580411108,"data":"faa9f03d started on gpu 0 New quota is 4738130944\n"}
+,{"stream_name":"stdout","time":2914.456869239,"data":"8b9c3697 finished on gpu 0 New quota is 6168957440\n"}
+,{"stream_name":"stdout","time":2914.655574495,"data":"b9e38dc0 started on gpu 0 New quota is 4826875904\n"}
+,{"stream_name":"stdout","time":2922.512164536,"data":"db0c5428 finished on gpu 0 New quota is 6251043328\n"}
+,{"stream_name":"stdout","time":2922.712680774,"data":"8e5c0c38 started on gpu 0 New quota is 4935566848\n"}
+,{"stream_name":"stdout","time":2935.645327507,"data":"faa9f03d finished on gpu 0 New quota is 6292005376\n"}
+,{"stream_name":"stdout","time":2935.805819498,"data":"271d71e2 started on gpu 0 New quota is 4993138688\n"}
+,{"stream_name":"stdout","time":2939.638817776,"data":"7b3084d4 finished on gpu 0 New quota is 6392102912\n"}
+,{"stream_name":"stdout","time":2939.835482707,"data":"5545f144 started on gpu 0 New quota is 5169348608\n"}
+,{"stream_name":"stdout","time":2943.672286081,"data":"b9e38dc0 finished on gpu 0 New quota is 6511430144\n"}
+,{"stream_name":"stdout","time":2943.873136066,"data":"16de56c4 started on gpu 0 New quota is 5294428160\n"}
+,{"stream_name":"stdout","time":2949.734543837,"data":"8e5c0c38 finished on gpu 0 New quota is 6609904640\n"}
+,{"stream_name":"stdout","time":2949.934627209,"data":"53fb4810 started on gpu 0 New quota is 5420912640\n"}
+,{"stream_name":"stdout","time":2972.937995259,"data":"271d71e2 finished on gpu 0 New quota is 6719779328\n"}
+,{"stream_name":"stdout","time":2972.938028535,"data":"16de56c4 finished on gpu 0 New quota is 7936781312\n"}
+,{"stream_name":"stdout","time":2972.942516915,"data":"b6f77b65 started on gpu 0 New quota is 6797834240\n"}
+,{"stream_name":"stdout","time":2973.090335463,"data":"eee78d87 started on gpu 0 New quota is 6094975488\n"}
+,{"stream_name":"stdout","time":2978.935369155,"data":"53fb4810 finished on gpu 0 New quota is 7283967488\n"}
+,{"stream_name":"stdout","time":2979.132408032,"data":"d35bdbdc started on gpu 0 New quota is 6666220032\n"}
+,{"stream_name":"stdout","time":2982.978763477,"data":"5545f144 finished on gpu 0 New quota is 7888974336\n"}
+,{"stream_name":"stdout","time":2983.16496578,"data":"6e453dd6 started on gpu 0 New quota is 7276393984\n"}
+,{"stream_name":"stdout","time":3001.104505911,"data":"b6f77b65 finished on gpu 0 New quota is 8415341056\n"}
+,{"stream_name":"stdout","time":3001.302448069,"data":"409aa875 started on gpu 0 New quota is 7814369280\n"}
+,{"stream_name":"stdout","time":3002.116658903,"data":"eee78d87 finished on gpu 0 New quota is 8517228032\n"}
+,{"stream_name":"stdout","time":3002.315799936,"data":"e8686506 started on gpu 0 New quota is 7917889024\n"}
+,{"stream_name":"stdout","time":3006.193469433,"data":"d35bdbdc finished on gpu 0 New quota is 8535636480\n"}
+,{"stream_name":"stdout","time":3006.347099734,"data":"4c3d4a41 started on gpu 0 New quota is 7970264576\n"}
+,{"stream_name":"stdout","time":3012.191647768,"data":"6e453dd6 finished on gpu 0 New quota is 8582844928\n"}
+,{"stream_name":"stdout","time":3012.391070447,"data":"97d7923e started on gpu 0 New quota is 8019196416\n"}
+,{"stream_name":"stdout","time":3028.295291824,"data":"409aa875 finished on gpu 0 New quota is 8620168192\n"}
+,{"stream_name":"stdout","time":3028.49321599,"data":"2b83f449 started on gpu 0 New quota is 8078705664\n"}
+,{"stream_name":"stdout","time":3032.321709072,"data":"4c3d4a41 finished on gpu 0 New quota is 8644077568\n"}
+,{"stream_name":"stdout","time":3032.520209979,"data":"71e489b6 started on gpu 0 New quota is 8107535872\n"}
+,{"stream_name":"stdout","time":3034.338849941,"data":"e8686506 finished on gpu 0 New quota is 8706874880\n"}
+,{"stream_name":"stdout","time":3034.536107303,"data":"da515329 started on gpu 0 New quota is 8192177664\n"}
+,{"stream_name":"stdout","time":3039.423302623,"data":"97d7923e finished on gpu 0 New quota is 8755826176\n"}
+,{"stream_name":"stdout","time":3039.572181103,"data":"3dc255db started on gpu 0 New quota is 8250350592\n"}
+,{"stream_name":"stdout","time":3056.684708745,"data":"2b83f449 finished on gpu 0 New quota is 8791813120\n"}
+,{"stream_name":"stdout","time":3061.701182315,"data":"71e489b6 finished on gpu 0 New quota is 9328354816\n"}
+,{"stream_name":"stdout","time":3062.706152558,"data":"3dc255db finished on gpu 0 New quota is 9833830400\n"}
+,{"stream_name":"stdout","time":3064.711879318,"data":"da515329 finished on gpu 0 New quota is 10348527616\n"}
+,{"stream_name":"stdout","time":3065.634238132,"data":"All jobs finished in 1146.7953860759735 seconds.\n"}
+,{"stream_name":"stdout","time":3065.634267564,"data":"120 tasks solved.\n"}
+,{"stream_name":"stdout","time":3065.634275169,"data":"5 steps taken.\n"}
+,{"stream_name":"stdout","time":3065.634281661,"data":"1146.7953860759735 seconds taken.\n"}
+,{"stream_name":"stdout","time":3065.985749985,"data":"\n"}
+,{"stream_name":"stdout","time":3065.985783974,"data":"================================================================================\n"}
+,{"stream_name":"stdout","time":3065.985791513,"data":"VISUALIZING ARC SOLUTION RESULTS\n"}
+,{"stream_name":"stdout","time":3065.985798114,"data":"================================================================================\n"}
+,{"stream_name":"stdout","time":3065.985802993,"data":"Found submission file: submission.json\n"}
+,{"stream_name":"stdout","time":3065.985807242,"data":"Loaded submission with 120 tasks\n"}
+,{"stream_name":"stdout","time":3065.985811305,"data":"\n"}
+,{"stream_name":"stdout","time":3065.985815281,"data":"Found 172 total predictions to visualize\n"}
+,{"stream_name":"stdout","time":3065.985819547,"data":"Showing 10 of 172 prediction samples\n"}
+,{"stream_name":"stdout","time":3065.98582374,"data":"\n"}
+,{"stream_name":"stdout","time":3065.985827607,"data":"Task: 8b7bacbf - Test #1 (all zeros - no score)\n"}
+,{"stream_name":"stdout","time":3065.985831711,"data":"  Skipping visualization for Task 8b7bacbf - Test #1 (all predictions are zeros)\n"}
+,{"stream_name":"stdout","time":3065.985835775,"data":"\n"}
+,{"stream_name":"stdout","time":3065.985840587,"data":"Task: 8b7bacbf - Test #2 (all zeros - no score)\n"}
+,{"stream_name":"stdout","time":3065.985846532,"data":"  Skipping visualization for Task 8b7bacbf - Test #2 (all predictions are zeros)\n"}
+,{"stream_name":"stdout","time":3065.985852621,"data":"\n"}
+,{"stream_name":"stdout","time":3065.985859186,"data":"Task: dd6b8c4b - Test #1 (Score: 0/2)\n"}
+,{"stream_name":"stdout","time":3066.221240375,"data":"  Results: Attempt 1: ✗, Attempt 2: ✗\n"}
+,{"stream_name":"stdout","time":3066.221278604,"data":"  Shape - Ground Truth: (11, 11), Prediction 1: (11, 11), Prediction 2: (11, 11)\n"}
+,{"stream_name":"stdout","time":3066.221285654,"data":"  Values - Ground Truth unique values: [3 6 7 9]\n"}
+,{"stream_name":"stdout","time":3066.221291586,"data":"          Prediction 1 unique values: [7]\n"}
+,{"stream_name":"stdout","time":3066.221299193,"data":"          Prediction 2 unique values: [6 7]\n"}
+,{"stream_name":"stdout","time":3066.599868203,"data":"\n"}
+,{"stream_name":"stdout","time":3066.599900476,"data":"Task: dd6b8c4b - Test #2 (Score: 0/2)\n"}
+,{"stream_name":"stdout","time":3066.599907347,"data":"  Results: Attempt 1: ✗, Attempt 2: ✗\n"}
+,{"stream_name":"stdout","time":3066.599913819,"data":"  Shape - Ground Truth: (11, 11), Prediction 1: (11, 11), Prediction 2: (11, 11)\n"}
+,{"stream_name":"stdout","time":3066.599918879,"data":"  Values - Ground Truth unique values: [6 7 9]\n"}
+,{"stream_name":"stdout","time":3066.599923555,"data":"          Prediction 1 unique values: [7]\n"}
+,{"stream_name":"stdout","time":3066.599928187,"data":"          Prediction 2 unique values: [6 7]\n"}
+,{"stream_name":"stdout","time":3066.968345625,"data":"\n"}
+,{"stream_name":"stdout","time":3066.968377353,"data":"Task: 88bcf3b4 - Test #1 (Score: 0/2)\n"}
+,{"stream_name":"stdout","time":3066.968383838,"data":"  Results: Attempt 1: ✗, Attempt 2: ✗\n"}
+,{"stream_name":"stdout","time":3066.968389641,"data":"  Shape - Ground Truth: (22, 22), Prediction 1: (22, 22), Prediction 2: (22, 22)\n"}
+,{"stream_name":"stdout","time":3066.968394777,"data":"  Values - Ground Truth unique values: [1 3 4 5 6 8 9]\n"}
+,{"stream_name":"stdout","time":3066.968399989,"data":"          Prediction 1 unique values: [5]\n"}
+,{"stream_name":"stdout","time":3066.96840493,"data":"          Prediction 2 unique values: [1 2 6 7 8 9]\n"}
+,{"stream_name":"stdout","time":3067.329884951,"data":"\n"}
+,{"stream_name":"stdout","time":3067.329919096,"data":"Task: 88bcf3b4 - Test #2 (Score: 0/2)\n"}
+,{"stream_name":"stdout","time":3067.329926503,"data":"  Results: Attempt 1: ✗, Attempt 2: ✗\n"}
+,{"stream_name":"stdout","time":3067.329931408,"data":"  Shape - Ground Truth: (27, 27), Prediction 1: (27, 27), Prediction 2: (27, 27)\n"}
+,{"stream_name":"stdout","time":3067.329934566,"data":"  Values - Ground Truth unique values: [1 2 3 4 5 6 8 9]\n"}
+,{"stream_name":"stdout","time":3067.329937506,"data":"          Prediction 1 unique values: [8]\n"}
+,{"stream_name":"stdout","time":3067.329940402,"data":"          Prediction 2 unique values: [8]\n"}
+,{"stream_name":"stdout","time":3067.671850267,"data":"\n"}
+,{"stream_name":"stdout","time":3067.671881449,"data":"Task: 21897d95 - Test #1 (all zeros - no score)\n"}
+,{"stream_name":"stdout","time":3067.671887737,"data":"  Skipping visualization for Task 21897d95 - Test #1 (all predictions are zeros)\n"}
+,{"stream_name":"stdout","time":3067.671892555,"data":"\n"}
+,{"stream_name":"stdout","time":3067.671896918,"data":"Task: 21897d95 - Test #2 (all zeros - no score)\n"}
+,{"stream_name":"stdout","time":3067.671901313,"data":"  Skipping visualization for Task 21897d95 - Test #2 (all predictions are zeros)\n"}
+,{"stream_name":"stdout","time":3067.671905698,"data":"\n"}
+,{"stream_name":"stdout","time":3067.67190987,"data":"Task: 20270e3b - Test #1 (Score: 0/2)\n"}
+,{"stream_name":"stdout","time":3067.671914269,"data":"  Results: Attempt 1: ✗, Attempt 2: ✗\n"}
+,{"stream_name":"stdout","time":3067.671919738,"data":"  Shape - Ground Truth: (5, 10), Prediction 1: (1, 1), Prediction 2: (1, 1)\n"}
+,{"stream_name":"stdout","time":3067.671924419,"data":"  Values - Ground Truth unique values: [1 4]\n"}
+,{"stream_name":"stdout","time":3067.671928816,"data":"          Prediction 1 unique values: [1]\n"}
+,{"stream_name":"stdout","time":3067.671933334,"data":"          Prediction 2 unique values: [1]\n"}
+,{"stream_name":"stdout","time":3068.03156182,"data":"\n"}
+,{"stream_name":"stdout","time":3068.031593114,"data":"Task: 20270e3b - Test #2 (Score: 0/2)\n"}
+,{"stream_name":"stdout","time":3068.031600061,"data":"  Results: Attempt 1: ✗, Attempt 2: ✗\n"}
+,{"stream_name":"stdout","time":3068.031628796,"data":"  Shape - Ground Truth: (8, 8), Prediction 1: (2, 3), Prediction 2: (9, 13)\n"}
+,{"stream_name":"stdout","time":3068.031634802,"data":"  Values - Ground Truth unique values: [1 4]\n"}
+,{"stream_name":"stdout","time":3068.031639747,"data":"          Prediction 1 unique values: [1]\n"}
+,{"stream_name":"stdout","time":3068.031644574,"data":"          Prediction 2 unique values: [1 4]\n"}
+,{"stream_name":"stdout","time":3068.190879579,"data":"\n"}
+,{"stream_name":"stdout","time":3068.190914489,"data":"Visualized 6 inference results (skipped 4 with all-zero predictions)\n"}
+,{"stream_name":"stdout","time":3068.190923773,"data":"\n"}
+,{"stream_name":"stdout","time":3068.190929678,"data":"================================================================================\n"}
+,{"stream_name":"stdout","time":3068.190935564,"data":"OVERALL ACCURACY STATISTICS\n"}
+,{"stream_name":"stdout","time":3068.190941164,"data":"================================================================================\n"}
+,{"stream_name":"stdout","time":3068.190946893,"data":"Total test examples: 172\n"}
+,{"stream_name":"stdout","time":3068.190952551,"data":"Test examples with zero predictions (excluded from accuracy): 96\n"}
+,{"stream_name":"stdout","time":3068.19095805,"data":"Test examples included in accuracy calculation: 76\n"}
+,{"stream_name":"stdout","time":3068.190961989,"data":"Correct on attempt 1: 0/76 (0.00%)\n"}
+,{"stream_name":"stdout","time":3068.190965978,"data":"Correct on attempt 2: 0/76 (0.00%)\n"}
+,{"stream_name":"stdout","time":3068.190969804,"data":"Correct on either attempt: 0/76 (0.00%)\n"}
+,{"stream_name":"stdout","time":3068.190973816,"data":"Overall completion rate: 44.19% of tests have non-zero predictions\n"}
+,{"stream_name":"stdout","time":3068.190977763,"data":"================================================================================\n"}
+,{"stream_name":"stderr","time":3074.655276527,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":3074.655323639,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":3074.694892445,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":3075.062149732,"data":"[NbConvertApp] Writing 284952 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":3078.155799368,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":3078.155839139,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":3078.188385678,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":3079.187996201,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":3079.188033136,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":3079.1883705,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":3079.188597628,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":3079.18883123,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":3079.189034517,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":3079.189287734,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":3079.189549932,"data":"[NbConvertApp] Writing 383785 bytes to __results__.html\n"}
+]
