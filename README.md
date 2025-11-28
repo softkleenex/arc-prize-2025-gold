@@ -5,6 +5,7 @@ Kaggle Competition - ARC Prize 2025: Abstraction and Reasoning Challenge
 ## 📋 Competition Overview
 
 **Event**: ARC Prize 2025 (Kaggle)
+**Timeline**: 2025.03.24 ~ 2025.11.03 (Final Submission)
 **Status**: 진행중 (In Progress)
 **Language**: Python
 
